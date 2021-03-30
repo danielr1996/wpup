@@ -2,7 +2,7 @@
 
 Wordpress Plugin to upload themes via REST API
 
-Uses by [WPUP](https://github.com/danielr1996/wpup)
+Used by [WPUP](https://github.com/danielr1996/wpup)
 
 ## Usage
 Unfortunatelly this plugins cannot be downloaded from the officla wordpress plugin repository
