@@ -5,7 +5,7 @@ Wordpress Plugin to upload themes via REST API
 Used by [WPUP](https://github.com/danielr1996/wpup)
 
 ## Usage
-Unfortunatelly this plugins cannot be downloaded from the officla wordpress plugin repository
+Unfortunatelly this plugins cannot be downloaded from the official wordpress plugin repository
 because it violates the [Wordpress Developer Guidlines](https://developer.wordpress.org/plugins/wordpress-org/detailed-plugin-guidelines/#8-plugins-may-not-send-executable-code-via-third-party-systems)
 > Serving updates or otherwise installing plugins, themes, or add-ons from servers other than WordPress.org’s
 
